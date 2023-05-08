@@ -1,0 +1,31 @@
+* {
+    color: white;
+}
+
+.lgren {
+    border-color: c;
+    background-color: rgb(126, 187, 126);
+    color: rgb(126, 187, 126);
+}
+
+.gren {
+ border-color: rgb(36, 119, 36);
+ background-color: rgb(36, 119, 36);
+ color: rgb(36, 119, 36);
+}
+
+.pink {
+    border-color: pink;
+    background-color: pink;
+}
+
+.red {
+    border-color: red;
+    background-color: red;
+    color: red;
+}
+
+.black {
+    border-color: black;
+    background-color: black;
+}
